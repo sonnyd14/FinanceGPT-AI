@@ -1,1 +1,1 @@
-Fingpt
+#AI FinanceGPT
